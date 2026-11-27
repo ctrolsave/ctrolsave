@@ -25,7 +25,7 @@ Vengo del **diseño gráfico** y hoy lo llevo a **apps, webs, videos y videojueg
 
 | Proyecto | Qué es | Enlaces |
 |:--|:--|:--|
-| **🐉 Golden Goblin** | Comunidad para jugadores de rol, videojuegos, TCG, wargames y miniaturas: web con la sección "Busco una mesa", más un **juego de rol propio** (JS puro, también empaquetado para Android). Hice la marca, la web, el juego y los videos. | [📸 Instagram](https://www.instagram.com/goldengoblin_mza/) |
+| **🐉 Golden Goblin** | Comunidad para jugadores de rol, videojuegos, TCG, wargames y miniaturas: web con la sección "Busco una mesa", más un **juego de rol propio** (JS puro, también empaquetado para Android). Hice la marca, la web, el juego y los videos. | [🌐 Sitio](https://goldengoblinclub.com) · [📸 Instagram](https://www.instagram.com/goldengoblin_mza/) |
 | **🕯️ Santería Arkangel** | E-commerce para una tienda real: catálogo con variantes, precios por cantidad, pedidos, cuentas de cliente y panel de administración (PHP + MySQL, sin frameworks). Lo empecé a programar yo, antes de usar GitHub; hoy el repo lo lleva Marcos. | [🌐 Sitio](https://santeriaarkangel.com) |
 | **🪽 ARKANGEL AI** | Agente que hace fotos comerciales de los productos de Arkangel: detecta las fotos nuevas en Google Drive, recorta el producto **sin regenerarlo**, le genera un fondo temático con IA y le pone el logo original. Panel en Next.js y un worker aparte. *En desarrollo.* | Privado |
 | **🧙 Videos de Merlín · Arkangel** | Reels publicitarios verticales con un mago animado que habla en rioplatense: personaje consistente, voz con ElevenLabs, animación con FramePack, lip-sync con LatentSync y montaje propio. | Redes de Arkangel |
